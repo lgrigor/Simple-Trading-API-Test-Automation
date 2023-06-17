@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="316" it="0" lt="310" ct="42" ts="1687021947254" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-1" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:335,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="540" it="0" lt="540" ct="1" ts="1687021948046" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-2" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:511,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="850" it="0" lt="850" ct="0" ts="1687021949046" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-3" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:670,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="861" it="0" lt="861" ct="1" ts="1687021950045" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-4" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:749,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="426" it="0" lt="426" ct="1" ts="1687021951043" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-5" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:564,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="650" it="0" lt="650" ct="1" ts="1687021952044" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-6" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:911,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="216" it="0" lt="216" ct="1" ts="1687021953050" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-7" dt="text" by="192" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:58,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="436" it="0" lt="436" ct="0" ts="1687021954043" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-8" dt="text" by="192" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:65,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="839" it="0" lt="839" ct="1" ts="1687021955044" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-9" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:459,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="551" it="0" lt="550" ct="1" ts="1687021956042" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-10" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:426,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="504" it="0" lt="504" ct="1" ts="1687021957042" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-11" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:825,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="607" it="0" lt="607" ct="3" ts="1687021958042" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-12" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:889,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="808" it="0" lt="808" ct="2" ts="1687021959039" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-13" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:759,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="256" ct="1" ts="1687021960041" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-14" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:123,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="529" it="0" lt="529" ct="1" ts="1687021961038" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-15" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:837,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="900" it="0" lt="900" ct="1" ts="1687021962038" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-16" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:406,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="392" it="0" lt="392" ct="1" ts="1687021963037" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-17" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:163,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="552" it="0" lt="552" ct="2" ts="1687021964072" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-18" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:542,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="621" it="0" lt="621" ct="3" ts="1687021965040" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-19" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:204,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+<httpSample t="573" it="0" lt="573" ct="1" ts="1687021966039" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-20" dt="text" by="193" sby="306" ng="1" na="1">
+  <responseData class="java.lang.String">{&quot;id&quot;:231,&quot;stocks&quot;:&quot;EUR-USD&quot;,&quot;quantity&quot;:125,&quot;status&quot;:&quot;PENDING&quot;}</responseData>
+  <java.net.URL>http://localhost:8000/orders</java.net.URL>
+</httpSample>
+
+</testResults>
