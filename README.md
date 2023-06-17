@@ -60,5 +60,7 @@ The test cases have the following properties:
 
 ## Test Reports
 
-The test report is generated bt pytest-html which is a pytest plugin that generates detailed HTML reports for test results. It provides a visually appealing way to view and analyze the test execution summary, individual test outcomes, and associated metadata. Example is here - [report.html](https://github.com/lgrigor/Simple-Trading-API-Test-Automation/blob/main/Results/report.html)
+The test report is generated bt pytest-html which is a pytest plugin that generates detailed HTML reports for test results. It provides a visually appealing way to view and analyze the test execution summary, individual test outcomes, and associated metadata.
+
+Example is here - [report.html](https://github.com/lgrigor/Simple-Trading-API-Test-Automation/blob/main/Results). Download and open html file with browser.
 
