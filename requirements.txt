@@ -1,0 +1,10 @@
+requests
+websockets
+anyio
+pytest
+pytest-asyncio
+pytest-tornasync
+pytest-trio
+pytest-twisted
+pytest-html
+twisted
